@@ -3,3 +3,4 @@ A repository showcasing diverse Python projects utilizing a wide range of librar
 
 - Number Guessing Game
 - Group Anagrams
+- Find Missing Number
