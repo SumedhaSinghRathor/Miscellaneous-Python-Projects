@@ -4,3 +4,6 @@ A repository showcasing diverse Python projects utilizing a wide range of librar
 - Number Guessing Game
 - Group Anagrams
 - Find Missing Number
+- Group Elements of Same Indices
+- Mean, Median and Mode
+- Execution Time of a Program
